@@ -1,0 +1,27 @@
+{
+  "name": "desafio-typescript",
+  "version": "1.0.0",
+  "description": "Repositório da resolução dos Desafios Typescript da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulohmoreira/desafio-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulohmoreira/desafio-typescript/issues"
+  },
+  "homepage": "https://github.com/paulohmoreira/desafio-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
